@@ -16,4 +16,4 @@ This is the directory of the classes with their URLs to help navigate between th
 | Prep 2 | *[Data Structure](./DataStructure.md)*|
 | Prep 3 | *[Engineering Reading](./EngineeringReading.md)*|
 | Prep 4 | *[Terminal](./Read4_Terminal.md)*|
-| Class 4 |  |  
+| Class 4 | *[ 'Classes Vs Obj', 'Pytest Fixtures' & 'Recursion'](./ReadClass_04.md)* |  
