@@ -18,4 +18,4 @@ This is the directory of the classes with their URLs to help navigate between th
 | Class 3  |  *[FileIO & Exceptions](./ReadClass3.md)*  
 | Class 4 | *[ 'Classes Vs Obj', 'Pytest Fixtures' & 'Recursion'](./ReadClass_04.md)* |  
 | Class 5 | *['Linked Lists'](./ReadClass_05.md)* |
-| Class 6 | *[](./)* |
+| Class 6 | *['Random Module', 'Rish Analysis', 'Test Coverage' & 'Big O'](./ReadClass_06.md)* |
