@@ -19,4 +19,5 @@ This is the directory of the classes with their URLs to help navigate between th
 | Class 4 | *[ 'Classes Vs Obj', 'Pytest Fixtures' & 'Recursion'](./ReadClass_04.md)* |  
 | Class 5 | *['Linked Lists'](./ReadClass_05.md)* |
 | Class 6 | *['Random Module', 'Rish Analysis', 'Test Coverage' & 'Big O'](./ReadClass_06.md)* |
-| Class 7 | *['Variable Scope', 'Global VS. Nonlocal', 'Big O', 'Dice Roll'](./ReadClass_07.md)*
+| Class 7 | *['Variable Scope', 'Global VS. Nonlocal', 'Big O', 'Dice Roll'](./ReadClass_07.md)* |
+| Class 8 | *['Python Decorator' ,'List Comprehension'](./ReadClass_08.md)* |
