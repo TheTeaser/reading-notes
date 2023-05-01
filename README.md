@@ -21,3 +21,4 @@ This is the directory of the classes with their URLs to help navigate between th
 | Class 6 | *['Random Module', 'Rish Analysis', 'Test Coverage' & 'Big O'](./ReadClass_06.md)* |
 | Class 7 | *['Variable Scope', 'Global VS. Nonlocal', 'Big O', 'Dice Roll'](./ReadClass_07.md)* |
 | Class 8 | *['Python Decorator' ,'List Comprehension'](./ReadClass_08.md)* |
+| Class 9 | *['Dunder Methods', 'AI Guru', Statistics Module of Python'](./ReadClass_09.md)
