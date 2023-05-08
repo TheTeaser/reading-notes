@@ -25,6 +25,6 @@ This is the directory of the classes with their URLs to help navigate between th
 | Class 10 | *['Linked Lists'](./ReadClass_10.md)* |
 | Class 11 | *['Jupyter Lab', 'Numpy Library'& 'Numpy Properties' ](./ReadClass11.md)* |
 | Class 12 | *['Pandnas Library](./ReadClass12.md)* |
-| Class 13 | *[](./ReadClass11.md)* |
-| Class 14 | *[](./ReadClass11.md)* |
-| Class 15 | *[](./ReadClass11.md)* |
+| Class 13 | *[](./ReadClass13.md)* |
+| Class 14 | *[](./ReadClass14.md)* |
+| Class 15 | *[](./ReadClass15.md)* |
