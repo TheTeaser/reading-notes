@@ -26,5 +26,5 @@ This is the directory of the classes with their URLs to help navigate between th
 | Class 11 | *['Jupyter Lab', 'Numpy Library'& 'Numpy Properties' ](./ReadClass11.md)* |
 | Class 12 | *['Pandnas Library](./ReadClass12.md)* |
 | Class 13 | *['Linear Regression' & ' Train & Sets splits'](./ReadClass13.md)* |
-| Class 14 | *[](./ReadClass14.md)* |
+| Class 14 | *['Matplotlib, Seaborn, and Bokeh libraries'](./ReadClass14.md)* |
 | Class 15 | *[](./ReadClass15.md)* |
