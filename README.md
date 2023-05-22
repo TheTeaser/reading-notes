@@ -28,3 +28,5 @@ This is the directory of the classes with their URLs to help navigate between th
 | Class 13 | *['Linear Regression' & ' Train & Sets splits'](./ReadClass13.md)* |
 | Class 14 | *['Matplotlib, Seaborn, and Bokeh libraries'](./ReadClass14.md)* |
 | Class 15 | *['Trees'](./ReadClass_15.md)* |
+| Class 16 | *['Serverless Function', 'APIs', 'Requests Library' & 'Vercel'](./ReadClass_16.md)* |
+| Class 17 | *['XPath', 'Scrapping', 'Avoid Scrap blocking' & 'Playwright'](./ReadClass_17.md)* |
