@@ -30,3 +30,6 @@ This is the directory of the classes with their URLs to help navigate between th
 | Class 15 | *['Trees'](./ReadClass_15.md)* |
 | Class 16 | *['Serverless Function', 'APIs', 'Requests Library' & 'Vercel'](./ReadClass_16.md)* |
 | Class 17 | *['XPath', 'Scrapping', 'Avoid Scrap blocking' & 'Playwright'](./ReadClass_17.md)* |
+| Class 18 | *['The Caesar Cipher', 'Symmetric V.S. Asymmetric Encryption'](./ReadClass_18.md)* |
+| Class 26 | *['Django' & 'Tailwind CSS'](./ReadClass_26.md)* |
+
