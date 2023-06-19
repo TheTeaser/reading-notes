@@ -34,6 +34,7 @@ This is the directory of the classes with their URLs to help navigate between th
 | Class 26 | *['Django' & 'Tailwind CSS'](./ReadClass_26.md)* |
 | Class 27 | *['Django Models, Admin & Application'](./ReadClass_27.md)* |
 | Class 28 | *['Django Forms, Tempaltes & Views'](./ReadClass_28.md)* |
+| Class 29 | *['Django Custom User Model, Implementing A Custom Model, DjangoX'](./ReadClass_29.md)* |
 
 
 
