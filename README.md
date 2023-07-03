@@ -37,7 +37,7 @@ This is the directory of the classes with their URLs to help navigate between th
 | Class 29 | *['Django Custom User Model, Implementing A Custom Model, DjangoX'](./ReadClass_29.md)* |
 | Class 30 | *['Hash Tables'](./ReadClass_30.md)* |
 | Class 31 | *['Django REST Framework & Docker'](./ReadClass_31.md)* |
-
+| Class 32 | *['DRF Generic Views and Permissions' & 'SQL'](./ReadClass_32.md)* |
 
 
 
