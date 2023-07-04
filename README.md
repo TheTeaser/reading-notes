@@ -38,6 +38,7 @@ This is the directory of the classes with their URLs to help navigate between th
 | Class 30 | *['Hash Tables'](./ReadClass_30.md)* |
 | Class 31 | *['Django REST Framework & Docker'](./ReadClass_31.md)* |
 | Class 32 | *['DRF Generic Views and Permissions' & 'SQL'](./ReadClass_32.md)* |
+| Class 33 | *['JWTS and Authentication' & 'Alternates to Django server'](./ReadClass_33.md)* |
 
 
 
