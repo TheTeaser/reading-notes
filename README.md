@@ -39,6 +39,8 @@ This is the directory of the classes with their URLs to help navigate between th
 | Class 31 | *['Django REST Framework & Docker'](./ReadClass_31.md)* |
 | Class 32 | *['DRF Generic Views and Permissions' & 'SQL'](./ReadClass_32.md)* |
 | Class 33 | *['JWTS and Authentication' & 'Alternates to Django server'](./ReadClass_33.md)* |
+| Class 34 | *['Django Settings', 'WhiteNoise Library' & 'CORS'](./ReadClass_34.md)* |
+| Class 34 | *['TBD'](./ReadClass_35.md)* |
 
 
 
