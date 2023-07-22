@@ -1,4 +1,4 @@
-# Reading Topics #36: REACT 1
+# Reading Topics #37: REACT 1
 
 
 ## ES6 features and their benefits:
