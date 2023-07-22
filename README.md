@@ -43,7 +43,7 @@ This is the directory of the classes with their URLs to help navigate between th
 | Class 35 | *['Graphs'](./ReadClass_35.md)* |
 | Class 36 | *['Whiteboard Prep'](./ReadClass_36.md)* |
 | Class 37 | *['ES6', 'Tailwind's Utility Classes' & 'Next.JS'](./ReadClass_37.md)* |
-
+| Class 38 | *['REACT Lifting State'](./ReadClass_38.md)* |
 
 
 
