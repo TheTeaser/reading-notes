@@ -45,6 +45,7 @@ This is the directory of the classes with their URLs to help navigate between th
 | Class 37 | *['ES6', 'Tailwind's Utility Classes' & 'Next.JS'](./ReadClass_37.md)* |
 | Class 38 | *['REACT Lifting State'](./ReadClass_38.md)* |
 | Class 39 | *['REACT & Next.JS'](./ReadClass_39.md)* |
+| Class 40 | *['REACT & Next.JS'](./ReadClass_40.md)* |
 
 
 
