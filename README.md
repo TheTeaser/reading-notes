@@ -46,6 +46,8 @@ This is the directory of the classes with their URLs to help navigate between th
 | Class 38 | *['REACT Lifting State'](./ReadClass_38.md)* |
 | Class 39 | *['REACT & Next.JS'](./ReadClass_39.md)* |
 | Class 40 | *['Next.JS Dynamic and Static states and how to deploy'](./ReadClass_40.md)* |
+| Class 42 | *['Ethics'](./ReadClass42.md)* |
+
 
 
 
